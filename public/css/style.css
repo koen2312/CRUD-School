@@ -1,0 +1,34 @@
+.formbox{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+}
+#ictcampus{
+    width: auto;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    border-bottom: solid 1px gray;
+}
+#submitbutton{
+    margin-top: 20px;
+    width: 100%;
+}
+#verkeerd{
+    background-color: red;
+    margin-top: 5px;
+    margin-bottom: 4px;
+    border-radius: 25px;
+}
+#verkeerdtext{
+    color: white;
+    text-align: center;
+}
+
+#email{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    
+}
